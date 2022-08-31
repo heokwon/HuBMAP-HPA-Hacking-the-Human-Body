@@ -8,3 +8,7 @@ train.csv
 __pycache__
 conv_origin_512_binary_dataset.zip
 conv_2048crop_512_binary_dataset .zip
+Train_conv_origin_512_r1_binary_dataset.ipynb
+Train_conv_origin_512_r2_binary_dataset.ipynb
+Train_conv_2048crop_512_r2_binary_dataset.ipynb
+Train_conv_2048crop_512_r1_binary_dataset.ipynb
