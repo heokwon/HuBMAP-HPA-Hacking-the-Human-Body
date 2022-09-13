@@ -12,3 +12,5 @@ Train_conv_origin_512_r1_binary_dataset.ipynb
 Train_conv_origin_512_r2_binary_dataset.ipynb
 Train_conv_2048crop_512_r2_binary_dataset.ipynb
 Train_conv_2048crop_512_r1_binary_dataset.ipynb
+Efficient_b1_test.ipynb
+Efficient_b4_test.ipynb
