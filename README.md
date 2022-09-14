@@ -1,4 +1,4 @@
-# i-seg-you
+# Training-for-Competition
 ### Team
 * 윤소미, 장주찬, 전규원, 한정현, 허 권
 ### Project
