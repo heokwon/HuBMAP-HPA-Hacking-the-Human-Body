@@ -5,7 +5,7 @@
 * Kaggle Competition : HuBMAP + HPA = Hacking The Human Body
 ### Introduction
 * Train Codes and files for Competition
-* Model : Efficient_Unet( b0 - b7 )
+* Model : Efficient_Unet ( b0 - b7 )
 ### Env and Requirements
 * Google Colab, VScode, AWS
 * Pytorch, Fastai, Weights and Bias, cv2, sklearn, lovasz
