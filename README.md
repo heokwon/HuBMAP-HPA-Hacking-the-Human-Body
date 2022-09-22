@@ -13,7 +13,11 @@
 5. 고정된 encoder에 가장 어울리는 이미지의 input size 찾은 후 데이터 핸들링
 6. 다양한 test image size를 고려해 multi scale 데이터셋 제작 > 성능이 가장 잘 나옴
 7. 동일한 encoder model에서 input size 256, 512로 다르게 학습시킨 model ensemble
-8. Inference 에서 model ensemble 추가
+8. Inference 에서 encoder model ensemble 추가
+* Model : ResNeSt
+1. Encoder : resnest101, resnest200
+2. Efficient Unet과의 모델 앙상블을 위해 학습
+3. Efficient Unet에서 가장 학습이 좋았던 데이터셋을 고정
 
 ### Env and Requirements
 * Google Colab, VScode, AWS
