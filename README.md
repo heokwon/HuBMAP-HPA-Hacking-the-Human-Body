@@ -14,11 +14,19 @@
 6. 다양한 test image size를 고려해 multi scale 데이터셋 제작 > 성능이 가장 잘 나옴
 7. 동일한 encoder model에서 input size 256, 512로 다르게 학습시킨 model ensemble
 8. Inference 에서 encoder model ensemble 추가
+9. best score : 0.77
 * Model : ResNeSt
-1. Encoder : resnest101, resnest200
+1. Encoder : resnest101, resnest200, resnest269
 2. Efficient Unet과의 모델 앙상블을 위해 학습
 3. Efficient Unet에서 가장 학습이 좋았던 데이터셋을 고정
-
+4. best score : 0.78
+### Result
+* dataset : convert256 reduce4,6,12 stride128 dataset / convert512 reduce2,3,6 stride256 dataset
+* models : Efficient-Unet encoder b1, b3, b5 / ResNeSt 101, 200, 269
+* method : ensemble
+* Kaggle score : Public - 0.78 / Private - 0.76 (final result)
+* rank : 124 / 1245 teams
+*  **Bronze Medal**
 ### Env and Requirements
 * Google Colab, VScode, AWS
 * Pytorch, Fastai, Weights and Bias, cv2, sklearn, lovasz
