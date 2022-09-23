@@ -25,7 +25,7 @@
 * models : Efficient-Unet encoder b1, b3, b5 / ResNeSt 101, 200, 269
 * method : ensemble
 * Kaggle score : Public - 0.78 / Private - 0.76 (final result)
-* rank : 124 / 1245 teams
+* rank : 124 / 1245 teams (90th percentile)
 *  **Bronze Medal**
 ### Env and Requirements
 * Google Colab, VScode, AWS
