@@ -1,8 +1,8 @@
 # Training-for-Competition
-### Team
+### Team - CODEnter
 * 윤소미, 장주찬, 전규원, 한정현, 허 권
 ### Project
-* Kaggle Competition : HuBMAP + HPA = Hacking The Human Body
+* Kaggle Competition : HuBMAP + HPA - Hacking The Human Body
 ### Introduction
 #### Train Codes and files for Competition
 * Modle : Efficient Unet
