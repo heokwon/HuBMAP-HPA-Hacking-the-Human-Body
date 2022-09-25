@@ -1,4 +1,4 @@
-# KaggleCompetiton-DataHandling
+# KaggleCompetiton-Train-and-inference
 ### Team - CODEnter
 * 윤소미, 장주찬, 전규원, 한정현, 허 권
 ### Project
