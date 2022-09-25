@@ -1,4 +1,4 @@
-# KaggleCompetiton-Train-and-inference
+# KaggleCompetiton-Train-and-Inference
 ### Team - CODEnter
 * 윤소미, 장주찬, 전규원, 한정현, 허 권
 ### Project
