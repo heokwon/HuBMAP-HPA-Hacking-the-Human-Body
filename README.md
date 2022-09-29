@@ -28,7 +28,9 @@
 <img width="571" alt="kaggle competiton score" src="https://user-images.githubusercontent.com/106142393/192099762-6f3a314b-3e14-4eb3-bc17-f4dd6c125d38.PNG">   
 
 * rank : 124 / 1245 teams (90th percentile)
-<img width="416" alt="kaggle score" src="https://user-images.githubusercontent.com/106142393/192099824-e2266a51-37b1-4150-a80e-72a7a5554a7f.PNG">
+<img width="571" alt="kaggle score" src="https://user-images.githubusercontent.com/106142393/192099824-e2266a51-37b1-4150-a80e-72a7a5554a7f.PNG">   
+
+<img width="571" alt="캡처" src="https://user-images.githubusercontent.com/106142393/192996442-24a11c66-9c87-41d3-8dff-30a18f68ed8a.PNG">
 
 *  **Bronze Medal**
 ### Env and Requirements
